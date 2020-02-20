@@ -4,3 +4,8 @@ This is Sha2nk trying to master git commands.
 
 Sha2nk
 20/2/2020
+
+This is Sha2nk trying to master git branching.
+
+Sha2nk
+20/2/2020__part2
