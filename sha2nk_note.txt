@@ -9,3 +9,8 @@ This is Sha2nk trying to master git branching.
 
 Sha2nk
 20/2/2020__part2
+
+This is Sha2nk trying to pull latest chnages from remote to local repo.
+
+Sha2nk
+20/2/2020__part3
